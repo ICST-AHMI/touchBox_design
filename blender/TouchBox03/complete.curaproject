@@ -1,0 +1,91 @@
+[model_0]
+filename = /Users/maybites/Arbeiten/01_projekte/120701_ICST_ZHDK/design/TouchBox03/case.stl
+centerx = 170.286487114
+centery = 63.10000159
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = True
+swapxz = False
+swapyz = False
+extruder = 1
+
+[model_1]
+filename = /Users/maybites/Arbeiten/01_projekte/120701_ICST_ZHDK/design/TouchBox03/deckel.stl
+centerx = 172.486484309
+centery = 144.099999329
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = False
+swapxz = False
+swapyz = False
+extruder = 1
+
+[model_2]
+filename = /Users/maybites/Arbeiten/01_projekte/120701_ICST_ZHDK/design/TouchBox03/speaker.stl
+centerx = 89.286480993
+centery = 60.9000109151
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = False
+swapxz = False
+swapyz = False
+extruder = 1
+
+[model_3]
+filename = /Users/maybites/Arbeiten/01_projekte/120701_ICST_ZHDK/design/TouchBox03/klammer.stl
+centerx = 100.300007463
+centery = 117.900019622
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = False
+swapxz = True
+swapyz = True
+extruder = 1
+
+[model_4]
+filename = /Users/maybites/Arbeiten/01_projekte/120701_ICST_ZHDK/design/TouchBox03/klammer.stl
+centerx = 21.4999938786
+centery = 39.1000023127
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = False
+swapxz = True
+swapyz = True
+extruder = 1
+
+[model_5]
+filename = /Users/maybites/Arbeiten/01_projekte/120701_ICST_ZHDK/design/TouchBox03/klammer.stl
+centerx = 21.4999938786
+centery = 74.300002417
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = False
+swapxz = True
+swapyz = True
+extruder = 1
+
+[model_6]
+filename = /Users/maybites/Arbeiten/01_projekte/120701_ICST_ZHDK/design/TouchBox03/klammer.stl
+centerx = 21.4999938786
+centery = 109.500002521
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = False
+swapxz = True
+swapyz = True
+extruder = 1
+

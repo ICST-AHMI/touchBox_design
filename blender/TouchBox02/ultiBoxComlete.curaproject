@@ -1,0 +1,143 @@
+[model_0]
+filename = /Users/maybites/Arbeiten/01_projekte/mayBites/120701_ICST_ZHDK/design/TouchBox02/case.stl
+centerx = 166.199995463
+centery = 45.2999907017
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = True
+swapxz = False
+swapyz = False
+extruder = 1
+
+[model_1]
+filename = /Users/maybites/Arbeiten/01_projekte/mayBites/120701_ICST_ZHDK/design/TouchBox02/speaker.stl
+centerx = 168.19998834
+centery = 126.499999277
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = False
+swapxz = False
+swapyz = False
+extruder = 1
+
+[model_2]
+filename = /Users/maybites/Arbeiten/01_projekte/mayBites/120701_ICST_ZHDK/design/TouchBox02/Spange.stl
+centerx = 182.41351403
+centery = 183.700008576
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = False
+swapxz = True
+swapyz = True
+extruder = 1
+
+[model_3]
+filename = /Users/maybites/Arbeiten/01_projekte/mayBites/120701_ICST_ZHDK/design/TouchBox02/Spange.stl
+centerx = 99.2135153711
+centery = 21.2999914244
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = False
+swapxz = True
+swapyz = True
+extruder = 1
+
+[model_4]
+filename = /Users/maybites/Arbeiten/01_projekte/mayBites/120701_ICST_ZHDK/design/TouchBox02/Spange.stl
+centerx = 99.2135153711
+centery = 56.4999915287
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = False
+swapxz = True
+swapyz = True
+extruder = 1
+
+[model_5]
+filename = /Users/maybites/Arbeiten/01_projekte/mayBites/120701_ICST_ZHDK/design/TouchBox02/Spange.stl
+centerx = 99.2135153711
+centery = 91.699991633
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = False
+swapxz = True
+swapyz = True
+extruder = 1
+
+[model_6]
+filename = /Users/maybites/Arbeiten/01_projekte/mayBites/120701_ICST_ZHDK/design/TouchBox02/cover.stl
+centerx = 85.0000027195
+centery = 149.899987125
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = True
+swapxz = False
+swapyz = False
+extruder = 1
+
+[model_7]
+filename = /Users/maybites/Arbeiten/01_projekte/mayBites/120701_ICST_ZHDK/design/TouchBox02/corner.stl
+centerx = 21.3000072569
+centery = 24.2999919161
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = True
+swapxz = True
+swapyz = True
+extruder = 1
+
+[model_8]
+filename = /Users/maybites/Arbeiten/01_projekte/mayBites/120701_ICST_ZHDK/design/TouchBox02/corner.stl
+centerx = 21.3000072569
+centery = 65.4999930039
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = True
+swapxz = True
+swapyz = True
+extruder = 1
+
+[model_9]
+filename = /Users/maybites/Arbeiten/01_projekte/mayBites/120701_ICST_ZHDK/design/TouchBox02/corner.stl
+centerx = 21.3000072569
+centery = 106.699994092
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = True
+swapxz = True
+swapyz = True
+extruder = 1
+
+[model_10]
+filename = /Users/maybites/Arbeiten/01_projekte/mayBites/120701_ICST_ZHDK/design/TouchBox02/corner.stl
+centerx = 21.3000072569
+centery = 147.899995179
+scale = 1000.0
+rotate = 0.0
+flipx = False
+flipy = False
+flipz = True
+swapxz = True
+swapyz = True
+extruder = 1
+
